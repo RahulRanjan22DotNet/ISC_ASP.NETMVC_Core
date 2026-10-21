@@ -31,6 +31,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/VS2026_Projects/ISC_JWTToken_Client/ISC_JWTToken_Client/Views/Home/GetAdminData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXRBZG1pbkRhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VS2026_Projects/ISC_JWTToken_Client/ISC_JWTToken_Client/Views/Home/GetUserData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXRVc2VyRGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/VS2026_Projects/ISC_JWTToken_Client/ISC_JWTToken_Client/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

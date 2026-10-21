@@ -53,8 +53,8 @@ namespace ISC_JWTToken_Client.Controllers
                 if(result.IsSuccessStatusCode)
                 {
                     var data = result.Content.ReadAsStringAsync().Result;
-                    var token = JsonConvert.DeserializeObject(data);
-                    HttpContext.Session.SetString("JWToken", token.ToString());
+                    dynamic tokenObj = JsonConvert.DeserializeObject(data);
+                    HttpContext.Session.SetString("JWToken", (string)tokenObj.token);
                     return RedirectToAction("Index", "Home");
                 }
                 else

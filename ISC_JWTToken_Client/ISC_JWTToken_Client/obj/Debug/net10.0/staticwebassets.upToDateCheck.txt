@@ -61,6 +61,7 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+D:\VS2026_Projects\ISC_JWTToken_Client\ISC_JWTToken_Client\wwwroot\css\site.css
 D:\VS2026_Projects\ISC_JWTToken_Client\ISC_JWTToken_Client\wwwroot\favicon.ico
 D:\VS2026_Projects\ISC_JWTToken_Client\ISC_JWTToken_Client\wwwroot\js\site.js
 D:\VS2026_Projects\ISC_JWTToken_Client\ISC_JWTToken_Client\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
@@ -122,4 +123,3 @@ D:\VS2026_Projects\ISC_JWTToken_Client\ISC_JWTToken_Client\wwwroot\lib\jquery\di
 D:\VS2026_Projects\ISC_JWTToken_Client\ISC_JWTToken_Client\wwwroot\lib\jquery\dist\jquery.slim.min.js
 D:\VS2026_Projects\ISC_JWTToken_Client\ISC_JWTToken_Client\wwwroot\lib\jquery\dist\jquery.slim.min.map
 D:\VS2026_Projects\ISC_JWTToken_Client\ISC_JWTToken_Client\wwwroot\lib\jquery\LICENSE.txt
-D:\VS2026_Projects\ISC_JWTToken_Client\ISC_JWTToken_Client\wwwroot\css\site.css
