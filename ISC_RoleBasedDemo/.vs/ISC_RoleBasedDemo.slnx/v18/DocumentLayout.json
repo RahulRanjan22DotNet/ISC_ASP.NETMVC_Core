@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS2026_Projects\\ISC_RoleBasedDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61B2ADBF-E317-4F59-8803-BAD74725EBEB}|ISC_RoleBasedDemo\\ISC_RoleBasedDemo.csproj|d:\\vs2026_projects\\isc_rolebaseddemo\\isc_rolebaseddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B2ADBF-E317-4F59-8803-BAD74725EBEB}|ISC_RoleBasedDemo\\ISC_RoleBasedDemo.csproj|solutionrelative:isc_rolebaseddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS2026_Projects\\ISC_RoleBasedDemo\\ISC_RoleBasedDemo\\Migrations\\20260829162530_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ISC_RoleBasedDemo\\Migrations\\20260829162530_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B2ADBF-E317-4F59-8803-BAD74725EBEB}|ISC_RoleBasedDemo\\ISC_RoleBasedDemo.csproj|d:\\vs2026_projects\\isc_rolebaseddemo\\isc_rolebaseddemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61B2ADBF-E317-4F59-8803-BAD74725EBEB}|ISC_RoleBasedDemo\\ISC_RoleBasedDemo.csproj|solutionrelative:isc_rolebaseddemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B2ADBF-E317-4F59-8803-BAD74725EBEB}|ISC_RoleBasedDemo\\ISC_RoleBasedDemo.csproj|d:\\vs2026_projects\\isc_rolebaseddemo\\isc_rolebaseddemo\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B2ADBF-E317-4F59-8803-BAD74725EBEB}|ISC_RoleBasedDemo\\ISC_RoleBasedDemo.csproj|solutionrelative:isc_rolebaseddemo\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B2ADBF-E317-4F59-8803-BAD74725EBEB}|ISC_RoleBasedDemo\\ISC_RoleBasedDemo.csproj|d:\\vs2026_projects\\isc_rolebaseddemo\\isc_rolebaseddemo\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B2ADBF-E317-4F59-8803-BAD74725EBEB}|ISC_RoleBasedDemo\\ISC_RoleBasedDemo.csproj|solutionrelative:isc_rolebaseddemo\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260829162530_Initial.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_RoleBasedDemo\\ISC_RoleBasedDemo\\Migrations\\20260829162530_Initial.cs",
+              "RelativeDocumentMoniker": "ISC_RoleBasedDemo\\Migrations\\20260829162530_Initial.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_RoleBasedDemo\\ISC_RoleBasedDemo\\Migrations\\20260829162530_Initial.cs",
+              "RelativeToolTip": "ISC_RoleBasedDemo\\Migrations\\20260829162530_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T16:25:30.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_RoleBasedDemo\\ISC_RoleBasedDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ISC_RoleBasedDemo\\Program.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_RoleBasedDemo\\ISC_RoleBasedDemo\\Program.cs",
+              "RelativeToolTip": "ISC_RoleBasedDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T16:17:01.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_RoleBasedDemo\\ISC_RoleBasedDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "ISC_RoleBasedDemo\\appsettings.json",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_RoleBasedDemo\\ISC_RoleBasedDemo\\appsettings.json",
+              "RelativeToolTip": "ISC_RoleBasedDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-29T16:14:27.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_RoleBasedDemo\\ISC_RoleBasedDemo\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ISC_RoleBasedDemo\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_RoleBasedDemo\\ISC_RoleBasedDemo\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ISC_RoleBasedDemo\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T16:11:38.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_RoleBasedDemo\\ISC_RoleBasedDemo\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "ISC_RoleBasedDemo\\Models\\Users.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_RoleBasedDemo\\ISC_RoleBasedDemo\\Models\\Users.cs",
+              "RelativeToolTip": "ISC_RoleBasedDemo\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T16:10:41.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

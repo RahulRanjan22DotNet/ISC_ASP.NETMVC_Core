@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS2026_Projects\\ISC_DependencyInjectionDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72383322-8C38-40C6-B1E8-8CFD38D6B809}|ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo.csproj|d:\\vs2026_projects\\isc_dependencyinjectiondemo\\isc_dependencyinjectiondemo\\controllers\\calculationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72383322-8C38-40C6-B1E8-8CFD38D6B809}|ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo.csproj|solutionrelative:isc_dependencyinjectiondemo\\controllers\\calculationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72383322-8C38-40C6-B1E8-8CFD38D6B809}|ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo.csproj|d:\\vs2026_projects\\isc_dependencyinjectiondemo\\isc_dependencyinjectiondemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72383322-8C38-40C6-B1E8-8CFD38D6B809}|ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo.csproj|solutionrelative:isc_dependencyinjectiondemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72383322-8C38-40C6-B1E8-8CFD38D6B809}|ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo.csproj|d:\\vs2026_projects\\isc_dependencyinjectiondemo\\isc_dependencyinjectiondemo\\views\\calculation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72383322-8C38-40C6-B1E8-8CFD38D6B809}|ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo.csproj|solutionrelative:isc_dependencyinjectiondemo\\views\\calculation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72383322-8C38-40C6-B1E8-8CFD38D6B809}|ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo.csproj|d:\\vs2026_projects\\isc_dependencyinjectiondemo\\isc_dependencyinjectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72383322-8C38-40C6-B1E8-8CFD38D6B809}|ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo.csproj|solutionrelative:isc_dependencyinjectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72383322-8C38-40C6-B1E8-8CFD38D6B809}|ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo.csproj|d:\\vs2026_projects\\isc_dependencyinjectiondemo\\isc_dependencyinjectiondemo\\services\\newcalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72383322-8C38-40C6-B1E8-8CFD38D6B809}|ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo.csproj|solutionrelative:isc_dependencyinjectiondemo\\services\\newcalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72383322-8C38-40C6-B1E8-8CFD38D6B809}|ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo.csproj|d:\\vs2026_projects\\isc_dependencyinjectiondemo\\isc_dependencyinjectiondemo\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72383322-8C38-40C6-B1E8-8CFD38D6B809}|ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo.csproj|solutionrelative:isc_dependencyinjectiondemo\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72383322-8C38-40C6-B1E8-8CFD38D6B809}|ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo.csproj|d:\\vs2026_projects\\isc_dependencyinjectiondemo\\isc_dependencyinjectiondemo\\views\\calculation\\showresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72383322-8C38-40C6-B1E8-8CFD38D6B809}|ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo.csproj|solutionrelative:isc_dependencyinjectiondemo\\views\\calculation\\showresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72383322-8C38-40C6-B1E8-8CFD38D6B809}|ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo.csproj|d:\\vs2026_projects\\isc_dependencyinjectiondemo\\isc_dependencyinjectiondemo\\services\\icalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72383322-8C38-40C6-B1E8-8CFD38D6B809}|ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo.csproj|solutionrelative:isc_dependencyinjectiondemo\\services\\icalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ISC_DependencyInjectionDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ISC_DependencyInjectionDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T20:48:26.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewCalculationService.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo\\Services\\NewCalculationService.cs",
+              "RelativeDocumentMoniker": "ISC_DependencyInjectionDemo\\Services\\NewCalculationService.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo\\Services\\NewCalculationService.cs",
+              "RelativeToolTip": "ISC_DependencyInjectionDemo\\Services\\NewCalculationService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T20:10:36.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShowResult.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo\\Views\\Calculation\\ShowResult.cshtml",
+              "RelativeDocumentMoniker": "ISC_DependencyInjectionDemo\\Views\\Calculation\\ShowResult.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo\\Views\\Calculation\\ShowResult.cshtml",
+              "RelativeToolTip": "ISC_DependencyInjectionDemo\\Views\\Calculation\\ShowResult.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-20T20:06:58.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo\\Views\\Calculation\\Index.cshtml",
+              "RelativeDocumentMoniker": "ISC_DependencyInjectionDemo\\Views\\Calculation\\Index.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo\\Views\\Calculation\\Index.cshtml",
+              "RelativeToolTip": "ISC_DependencyInjectionDemo\\Views\\Calculation\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-20T19:41:45.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculationController.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo\\Controllers\\CalculationController.cs",
+              "RelativeDocumentMoniker": "ISC_DependencyInjectionDemo\\Controllers\\CalculationController.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo\\Controllers\\CalculationController.cs",
+              "RelativeToolTip": "ISC_DependencyInjectionDemo\\Controllers\\CalculationController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T19:41:30.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ISC_DependencyInjectionDemo\\Program.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo\\Program.cs",
+              "RelativeToolTip": "ISC_DependencyInjectionDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T19:11:37.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculationService.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo\\Services\\CalculationService.cs",
+              "RelativeDocumentMoniker": "ISC_DependencyInjectionDemo\\Services\\CalculationService.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo\\Services\\CalculationService.cs",
+              "RelativeToolTip": "ISC_DependencyInjectionDemo\\Services\\CalculationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T19:09:58.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICalculationService.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo\\Services\\ICalculationService.cs",
+              "RelativeDocumentMoniker": "ISC_DependencyInjectionDemo\\Services\\ICalculationService.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_DependencyInjectionDemo\\ISC_DependencyInjectionDemo\\Services\\ICalculationService.cs",
+              "RelativeToolTip": "ISC_DependencyInjectionDemo\\Services\\ICalculationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T19:08:39.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

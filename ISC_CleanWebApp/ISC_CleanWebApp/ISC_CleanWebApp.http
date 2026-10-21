@@ -1,0 +1,6 @@
+@ISC_CleanWebApp_HostAddress = http://localhost:5160
+
+GET {{ISC_CleanWebApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

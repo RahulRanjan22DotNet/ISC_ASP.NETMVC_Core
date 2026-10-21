@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1 class="p-2 bg-secondary text-white">Registration Form</h1>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-6">
+            @using (Html.BeginForm("ShowData", "Home", "Post"))
+            {
+                <div class="mb-2">
+                    @Html.Label("lblName", "Name",new {@class="form-label"})
+                    @Html.TextBox("txtName", "", new { @class = "form-control", @placeholder = "Enter your name" })
+                </div>
+                <div class="mb-2">
+                    @Html.Label("lblFName", "Father's Name")
+                    @Html.TextBox("txtFName", "", new { @class = "form-control", @id = "txtFName", @placeholder = "Enter your father's name", @autofocus = true })
+                </div>
+                <div class="mb-2">
+                    @Html.Label("lblPassword", "Password")
+                    @Html.Password("txtPassword", "", new { @class = "form-control", @placeholder = "Enter Password" })
+                </div>
+                <div class="mb-2">
+                    @Html.Label("lblRetypePassword", "ReType Password")
+                    @Html.Password("txtRePassword", "Confirm Password")
+                </div>
+                <div class="mb-2">
+                    @Html.Label("lblCity", "City", new { @class = "form-label" })
+                    @Html.DropDownList("City", new SelectList(new[] { "Delhi", "Kolkata", "Jaipur", "Patna", "Mumbai" }), "-- Select City --", new { @class = "form-select" })
+                </div>
+                <div class="mb-2">
+                    @Html.Label("lblGender", "Gender", new { @class = "form-label" })
+                    @Html.RadioButton("Gender", "Male",new { @class = "form-check-input" }))Male
+                    @Html.RadioButton("Gender", "Female", new { @class = "form-check-input" }))Female
+                    @Html.RadioButton("Gender", "Others", new { @class = "form-check-input" }))Others
+                </div>
+                <div class="mb-2">
+                    @Html.Label("lblHobbies", "Hobbies")
+                    @Html.CheckBox("Cricket", true)Cricket
+                    @Html.CheckBox("Badminton", false)Badmintion
+                    @Html.CheckBox("Music", false)Music
+                    @Html.CheckBox("Dancing", false)Dancing
+                </div>
+                <div class="mb-2">
+                    <input type="submit" class="btn btn-success" value="Submit" />
+                </div>
+            }
+            <div class="mt-2">
+                @Html.ActionLink("Back", "BackAction")
+            </div>
+        </div>
+    </div>
+</div>

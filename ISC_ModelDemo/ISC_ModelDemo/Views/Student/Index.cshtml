@@ -1,0 +1,101 @@
+﻿@using ISC_ModelDemo.ViewModel
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Student
+@* @model StudentViewModel *@
+<h1> Details of Student</h1>
+<table class="table table-bordered table-dark">
+    <tr>
+        <th> Roll:</th>
+        <th> Name:</th>
+        <th> FName:</th>
+        <th> Gender:</th>
+        <th> DOB:</th>
+        <th> Is Disable:</th>
+
+    </tr>
+    <tr>
+        <td>@Model.Roll</td>
+        <td>@Model.Name</td>
+        <td>@Model.FName</td>
+        <td>@Model.Gender</td>
+        <td>@Model.DOB</td>
+        <td>@Model.IsDisable</td>
+    </tr>
+</table>
+
+<h1 class="p-2 bg-primary text-white">Add Student Data</h1>
+<div class="container-fluid p-3 bg-body-tertiary">
+    @* <form action="/Student/ShowData" method="post"> *@
+    <form action="/Student/RegisterData" method="post">
+        <div class="p-3">
+            <label class="form-label"> Name :</label>
+            <input type="text" name="name" class="form-control" />
+        </div>
+        <div class="p-3">
+            <label class="form-label"> Father's Name :</label>
+            <input type="text" name="fname" class="form-control" />
+        </div>
+        <div class="p-3">
+            <label class="form-label"> Gender :</label>
+            <select name="gender" class="form-select">
+                <option value="Male">Male</option>
+                <option value="Female">Female</option>
+                <option value="Other">Other</option>
+            </select>
+        </div>
+        <div class="p-3">
+            <label class="form-label">DOB :</label>
+            <input type="date" name="dob" class="form-control" />
+        </div>
+        <div class="p-3">
+            <label class="form-label">Is Any Disablity? :</label>
+            <input type="radio" name="disability" value="Yes" class="form-check" />Yes
+            <input type="radio" name="disability" value="No" class="form-check" />No
+        </div>
+        <div class="p-3 mt-2">
+            <input type="submit" value="Register" class="btn btn-success" />
+        </div>
+    </form>
+
+</div>
+
+    <div class="container-fluid p-3 bg-body-tertiary">
+        @* <form action="/Student/ShowData" method="post"> *@
+        <form method="post" asp-action="RegisterData" asp-controller="Student">
+            <div class="p-3">
+                <label class="form-label" asp-for="Name"> Name :</label>
+                <input type="text" name="name" asp-for="Name" class="form-control" />
+            </div>
+            <div class="p-3">
+                <label class="form-label" asp-for="FName"> Father's Name :</label>
+                <input type="text" name="fname" asp-for="FName" class="form-control" />
+            </div>
+            <div class="p-3">
+                <label class="form-label" asp-for="Gender"> Gender :</label>
+                <select name="gender" asp-for="Gender" class="form-select">
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                    <option value="Other">Other</option>
+                </select>
+            </div>
+            <div class="p-3">
+                <label class="form-label" asp-for="DOB">DOB :</label>
+                <input type="date" name="dob" asp-for="DOB" class="form-control" />
+            </div>
+            <div class="p-3">
+                <label class="form-label" asp-for="IsDisable">Is Any Disablity? :</label>
+                <input type="radio" name="disability" asp-for="IsDisable" value="Yes" class="form-check" />Yes
+                <input type="radio" name="disability" asp-for="IsDisable" value="No" class="form-check" />No
+            </div>
+            <div class="p-3 mt-2">
+                <input type="submit" value="Register" class="btn btn-success" />
+            </div>
+        </form>
+
+    </div>
+
+    

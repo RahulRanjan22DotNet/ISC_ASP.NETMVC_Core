@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS2026_Projects\\ISC_ModelDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|d:\\vs2026_projects\\isc_modeldemo\\isc_modeldemo\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|solutionrelative:isc_modeldemo\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|d:\\vs2026_projects\\isc_modeldemo\\isc_modeldemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|solutionrelative:isc_modeldemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|d:\\vs2026_projects\\isc_modeldemo\\isc_modeldemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|solutionrelative:isc_modeldemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|d:\\vs2026_projects\\isc_modeldemo\\isc_modeldemo\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|solutionrelative:isc_modeldemo\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|d:\\vs2026_projects\\isc_modeldemo\\isc_modeldemo\\views\\student\\showdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|solutionrelative:isc_modeldemo\\views\\student\\showdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|d:\\vs2026_projects\\isc_modeldemo\\isc_modeldemo\\views\\student\\registerdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|solutionrelative:isc_modeldemo\\views\\student\\registerdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|d:\\vs2026_projects\\isc_modeldemo\\isc_modeldemo\\views\\home\\showdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|solutionrelative:isc_modeldemo\\views\\home\\showdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|d:\\vs2026_projects\\isc_modeldemo\\isc_modeldemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|solutionrelative:isc_modeldemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|d:\\vs2026_projects\\isc_modeldemo\\isc_modeldemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|solutionrelative:isc_modeldemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|d:\\vs2026_projects\\isc_modeldemo\\isc_modeldemo\\views\\home\\action2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|solutionrelative:isc_modeldemo\\views\\home\\action2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|d:\\vs2026_projects\\isc_modeldemo\\isc_modeldemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|solutionrelative:isc_modeldemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|d:\\vs2026_projects\\isc_modeldemo\\isc_modeldemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|solutionrelative:isc_modeldemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|d:\\vs2026_projects\\isc_modeldemo\\isc_modeldemo\\viewmodel\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D98C8CB-6F08-4C75-B3A4-91370767E967}|ISC_ModelDemo\\ISC_ModelDemo.csproj|solutionrelative:isc_modeldemo\\viewmodel\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterData.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\Views\\Student\\RegisterData.cshtml",
+              "RelativeDocumentMoniker": "ISC_ModelDemo\\Views\\Student\\RegisterData.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\Views\\Student\\RegisterData.cshtml",
+              "RelativeToolTip": "ISC_ModelDemo\\Views\\Student\\RegisterData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-18T14:31:20.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShowData.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\Views\\Home\\ShowData.cshtml",
+              "RelativeDocumentMoniker": "ISC_ModelDemo\\Views\\Home\\ShowData.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\Views\\Home\\ShowData.cshtml",
+              "RelativeToolTip": "ISC_ModelDemo\\Views\\Home\\ShowData.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-18T13:59:18.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowData.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\Views\\Student\\ShowData.cshtml",
+              "RelativeDocumentMoniker": "ISC_ModelDemo\\Views\\Student\\ShowData.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\Views\\Student\\ShowData.cshtml",
+              "RelativeToolTip": "ISC_ModelDemo\\Views\\Student\\ShowData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-18T13:58:41.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "ISC_ModelDemo\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "ISC_ModelDemo\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-17T11:29:34.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ISC_ModelDemo\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ISC_ModelDemo\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T11:21:25.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ISC_ModelDemo\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ISC_ModelDemo\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwDQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T09:31:55.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "ISC_ModelDemo\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "ISC_ModelDemo\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-17T09:34:27.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Action2.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\Views\\Home\\Action2.cshtml",
+              "RelativeDocumentMoniker": "ISC_ModelDemo\\Views\\Home\\Action2.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\Views\\Home\\Action2.cshtml",
+              "RelativeToolTip": "ISC_ModelDemo\\Views\\Home\\Action2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-18T12:41:57.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ISC_ModelDemo\\Models\\Student.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\Models\\Student.cs",
+              "RelativeToolTip": "ISC_ModelDemo\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T09:30:21.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ISC_ModelDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ISC_ModelDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-17T12:01:29.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ISC_ModelDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ISC_ModelDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-18T12:55:49.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ISC_ModelDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ISC_ModelDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T12:16:18.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\ViewModel\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "ISC_ModelDemo\\ViewModel\\StudentViewModel.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_ModelDemo\\ISC_ModelDemo\\ViewModel\\StudentViewModel.cs",
+              "RelativeToolTip": "ISC_ModelDemo\\ViewModel\\StudentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T10:23:24.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

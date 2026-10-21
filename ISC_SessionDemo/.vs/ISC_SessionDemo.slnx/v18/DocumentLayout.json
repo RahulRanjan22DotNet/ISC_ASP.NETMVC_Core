@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS2026_Projects\\ISC_SessionDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAACF4F-9511-49DA-93F4-B82AB6ED6CD5}|ISC_SessionDemo\\ISC_SessionDemo.csproj|d:\\vs2026_projects\\isc_sessiondemo\\isc_sessiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABAACF4F-9511-49DA-93F4-B82AB6ED6CD5}|ISC_SessionDemo\\ISC_SessionDemo.csproj|solutionrelative:isc_sessiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAACF4F-9511-49DA-93F4-B82AB6ED6CD5}|ISC_SessionDemo\\ISC_SessionDemo.csproj|d:\\vs2026_projects\\isc_sessiondemo\\isc_sessiondemo\\views\\demo\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABAACF4F-9511-49DA-93F4-B82AB6ED6CD5}|ISC_SessionDemo\\ISC_SessionDemo.csproj|solutionrelative:isc_sessiondemo\\views\\demo\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAACF4F-9511-49DA-93F4-B82AB6ED6CD5}|ISC_SessionDemo\\ISC_SessionDemo.csproj|d:\\vs2026_projects\\isc_sessiondemo\\isc_sessiondemo\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABAACF4F-9511-49DA-93F4-B82AB6ED6CD5}|ISC_SessionDemo\\ISC_SessionDemo.csproj|solutionrelative:isc_sessiondemo\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAACF4F-9511-49DA-93F4-B82AB6ED6CD5}|ISC_SessionDemo\\ISC_SessionDemo.csproj|d:\\vs2026_projects\\isc_sessiondemo\\isc_sessiondemo\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABAACF4F-9511-49DA-93F4-B82AB6ED6CD5}|ISC_SessionDemo\\ISC_SessionDemo.csproj|solutionrelative:isc_sessiondemo\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAACF4F-9511-49DA-93F4-B82AB6ED6CD5}|ISC_SessionDemo\\ISC_SessionDemo.csproj|d:\\vs2026_projects\\isc_sessiondemo\\isc_sessiondemo\\views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABAACF4F-9511-49DA-93F4-B82AB6ED6CD5}|ISC_SessionDemo\\ISC_SessionDemo.csproj|solutionrelative:isc_sessiondemo\\views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAACF4F-9511-49DA-93F4-B82AB6ED6CD5}|ISC_SessionDemo\\ISC_SessionDemo.csproj|d:\\vs2026_projects\\isc_sessiondemo\\isc_sessiondemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABAACF4F-9511-49DA-93F4-B82AB6ED6CD5}|ISC_SessionDemo\\ISC_SessionDemo.csproj|solutionrelative:isc_sessiondemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAACF4F-9511-49DA-93F4-B82AB6ED6CD5}|ISC_SessionDemo\\ISC_SessionDemo.csproj|d:\\vs2026_projects\\isc_sessiondemo\\isc_sessiondemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABAACF4F-9511-49DA-93F4-B82AB6ED6CD5}|ISC_SessionDemo\\ISC_SessionDemo.csproj|solutionrelative:isc_sessiondemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_SessionDemo\\ISC_SessionDemo\\Views\\Demo\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "ISC_SessionDemo\\Views\\Demo\\AboutUs.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_SessionDemo\\ISC_SessionDemo\\Views\\Demo\\AboutUs.cshtml",
+              "RelativeToolTip": "ISC_SessionDemo\\Views\\Demo\\AboutUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-19T21:17:05.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_SessionDemo\\ISC_SessionDemo\\Views\\Demo\\Index.cshtml",
+              "RelativeDocumentMoniker": "ISC_SessionDemo\\Views\\Demo\\Index.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_SessionDemo\\ISC_SessionDemo\\Views\\Demo\\Index.cshtml",
+              "RelativeToolTip": "ISC_SessionDemo\\Views\\Demo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-19T21:14:35.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_SessionDemo\\ISC_SessionDemo\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "ISC_SessionDemo\\Controllers\\DemoController.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_SessionDemo\\ISC_SessionDemo\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "ISC_SessionDemo\\Controllers\\DemoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T21:14:19.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_SessionDemo\\ISC_SessionDemo\\Views\\Home\\Success.cshtml",
+              "RelativeDocumentMoniker": "ISC_SessionDemo\\Views\\Home\\Success.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_SessionDemo\\ISC_SessionDemo\\Views\\Home\\Success.cshtml",
+              "RelativeToolTip": "ISC_SessionDemo\\Views\\Home\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-19T21:10:03.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_SessionDemo\\ISC_SessionDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ISC_SessionDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_SessionDemo\\ISC_SessionDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ISC_SessionDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-19T20:59:46.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_SessionDemo\\ISC_SessionDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ISC_SessionDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_SessionDemo\\ISC_SessionDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ISC_SessionDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T20:59:38.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_SessionDemo\\ISC_SessionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ISC_SessionDemo\\Program.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_SessionDemo\\ISC_SessionDemo\\Program.cs",
+              "RelativeToolTip": "ISC_SessionDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T20:58:32.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

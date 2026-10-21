@@ -1,0 +1,64 @@
+@model RegisterViewModel
+
+@{
+    ViewData["Title"] = "Create your account";
+}
+
+<div class="register-page py-4 py-lg-5">
+    <div class="register-card overflow-hidden">
+        <div class="row g-0">
+            <div class="col-lg-5 register-intro p-4 p-md-5 text-white">
+                <div class="brand-mark mb-5">ISC</div>
+                <p class="eyebrow">WELCOME ABOARD</p>
+                <h1 class="display-6 fw-bold mb-3">Build something secure.</h1>
+                <p class="intro-copy mb-5">Create your account and get a simple, secure way to access everything you need.</p>
+                <div class="d-flex align-items-center gap-3 intro-feature"><span class="feature-icon">&#10003;</span><span>Secure JWT authentication</span></div>
+                <div class="d-flex align-items-center gap-3 intro-feature"><span class="feature-icon">&#10003;</span><span>Fast and effortless access</span></div>
+            </div>
+            <div class="col-lg-7 bg-white p-4 p-md-5">
+                <p class="eyebrow text-primary mb-2">GET STARTED</p>
+                <h2 class="h3 fw-bold mb-2">Create your account</h2>
+                <p class="text-secondary mb-4">Fill in your details to get started.</p>
+                <form asp-action="Register" method="post">
+                    <div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert"></div>
+                    <div class="mb-3">
+                        <label asp-for="UserName" class="form-label"></label>
+                        <input asp-for="UserName" class="form-control form-control-lg" placeholder="Enter your user name" autocomplete="username" />
+                        <span asp-validation-for="UserName" class="text-danger small"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Email" class="form-label"></label>
+                        <input asp-for="Email" class="form-control form-control-lg" placeholder="you@example.com" autocomplete="email" />
+                        <span asp-validation-for="Email" class="text-danger small"></span>
+                    </div>
+                    <div class="row g-3">
+                        <div class="col-md-6">
+                            <label asp-for="Password" class="form-label"></label>
+                            <input asp-for="Password" class="form-control form-control-lg" placeholder="Create a password" autocomplete="new-password" />
+                            <span asp-validation-for="Password" class="text-danger small"></span>
+                        </div>
+                        <div class="col-md-6">
+                            <label asp-for="ConfirmPassword" class="form-label"></label>
+                            <input asp-for="ConfirmPassword" class="form-control form-control-lg" placeholder="Confirm password" autocomplete="new-password" />
+                            <span asp-validation-for="ConfirmPassword" class="text-danger small"></span>
+                        </div>
+                        <div class="col-md-6">
+                            <label asp-for="Role" class="form-label"></label>
+                            <select asp-for="Role" class="form-select form-select-lg">
+                                <option value="">Choose a role</option>
+                                <option value="User">User</option>
+                                <option value="Admin">Admin</option>
+                            </select>
+                            <span asp-validation-for="Role" class="text-danger small"></span>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-lg w-100 mt-4">Create account <span aria-hidden="true">&#8594;</span></button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

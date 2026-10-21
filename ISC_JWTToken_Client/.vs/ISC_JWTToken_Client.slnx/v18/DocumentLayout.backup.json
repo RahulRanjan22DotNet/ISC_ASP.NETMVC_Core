@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS2026_Projects\\ISC_JWTToken_Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A859C62B-4EE7-467D-AF32-4787568F57EE}|ISC_JWTToken_Client\\ISC_JWTToken_Client.csproj|d:\\vs2026_projects\\isc_jwttoken_client\\isc_jwttoken_client\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A859C62B-4EE7-467D-AF32-4787568F57EE}|ISC_JWTToken_Client\\ISC_JWTToken_Client.csproj|solutionrelative:isc_jwttoken_client\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A859C62B-4EE7-467D-AF32-4787568F57EE}|ISC_JWTToken_Client\\ISC_JWTToken_Client.csproj|d:\\vs2026_projects\\isc_jwttoken_client\\isc_jwttoken_client\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A859C62B-4EE7-467D-AF32-4787568F57EE}|ISC_JWTToken_Client\\ISC_JWTToken_Client.csproj|solutionrelative:isc_jwttoken_client\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A859C62B-4EE7-467D-AF32-4787568F57EE}|ISC_JWTToken_Client\\ISC_JWTToken_Client.csproj|d:\\vs2026_projects\\isc_jwttoken_client\\isc_jwttoken_client\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A859C62B-4EE7-467D-AF32-4787568F57EE}|ISC_JWTToken_Client\\ISC_JWTToken_Client.csproj|solutionrelative:isc_jwttoken_client\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A859C62B-4EE7-467D-AF32-4787568F57EE}|ISC_JWTToken_Client\\ISC_JWTToken_Client.csproj|d:\\vs2026_projects\\isc_jwttoken_client\\isc_jwttoken_client\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A859C62B-4EE7-467D-AF32-4787568F57EE}|ISC_JWTToken_Client\\ISC_JWTToken_Client.csproj|solutionrelative:isc_jwttoken_client\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A859C62B-4EE7-467D-AF32-4787568F57EE}|ISC_JWTToken_Client\\ISC_JWTToken_Client.csproj|d:\\vs2026_projects\\isc_jwttoken_client\\isc_jwttoken_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A859C62B-4EE7-467D-AF32-4787568F57EE}|ISC_JWTToken_Client\\ISC_JWTToken_Client.csproj|solutionrelative:isc_jwttoken_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A859C62B-4EE7-467D-AF32-4787568F57EE}|ISC_JWTToken_Client\\ISC_JWTToken_Client.csproj|d:\\vs2026_projects\\isc_jwttoken_client\\isc_jwttoken_client\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A859C62B-4EE7-467D-AF32-4787568F57EE}|ISC_JWTToken_Client\\ISC_JWTToken_Client.csproj|solutionrelative:isc_jwttoken_client\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A859C62B-4EE7-467D-AF32-4787568F57EE}|ISC_JWTToken_Client\\ISC_JWTToken_Client.csproj|d:\\vs2026_projects\\isc_jwttoken_client\\isc_jwttoken_client\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A859C62B-4EE7-467D-AF32-4787568F57EE}|ISC_JWTToken_Client\\ISC_JWTToken_Client.csproj|solutionrelative:isc_jwttoken_client\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A859C62B-4EE7-467D-AF32-4787568F57EE}|ISC_JWTToken_Client\\ISC_JWTToken_Client.csproj|d:\\vs2026_projects\\isc_jwttoken_client\\isc_jwttoken_client\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A859C62B-4EE7-467D-AF32-4787568F57EE}|ISC_JWTToken_Client\\ISC_JWTToken_Client.csproj|solutionrelative:isc_jwttoken_client\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_JWTToken_Client\\ISC_JWTToken_Client\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ISC_JWTToken_Client\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_JWTToken_Client\\ISC_JWTToken_Client\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ISC_JWTToken_Client\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-20T15:35:22.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_JWTToken_Client\\ISC_JWTToken_Client\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ISC_JWTToken_Client\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_JWTToken_Client\\ISC_JWTToken_Client\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ISC_JWTToken_Client\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACwAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-20T15:35:20.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_JWTToken_Client\\ISC_JWTToken_Client\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ISC_JWTToken_Client\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_JWTToken_Client\\ISC_JWTToken_Client\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "ISC_JWTToken_Client\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:31:10.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_JWTToken_Client\\ISC_JWTToken_Client\\Program.cs",
+              "RelativeDocumentMoniker": "ISC_JWTToken_Client\\Program.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_JWTToken_Client\\ISC_JWTToken_Client\\Program.cs",
+              "RelativeToolTip": "ISC_JWTToken_Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:18:01.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_JWTToken_Client\\ISC_JWTToken_Client\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ISC_JWTToken_Client\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_JWTToken_Client\\ISC_JWTToken_Client\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ISC_JWTToken_Client\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-20T15:11:13.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_JWTToken_Client\\ISC_JWTToken_Client\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ISC_JWTToken_Client\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_JWTToken_Client\\ISC_JWTToken_Client\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ISC_JWTToken_Client\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAnwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T14:42:25.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_JWTToken_Client\\ISC_JWTToken_Client\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ISC_JWTToken_Client\\Models\\RegisterViewModel.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_JWTToken_Client\\ISC_JWTToken_Client\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "ISC_JWTToken_Client\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T14:34:59.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_JWTToken_Client\\ISC_JWTToken_Client\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ISC_JWTToken_Client\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_JWTToken_Client\\ISC_JWTToken_Client\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ISC_JWTToken_Client\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-20T14:29:32.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

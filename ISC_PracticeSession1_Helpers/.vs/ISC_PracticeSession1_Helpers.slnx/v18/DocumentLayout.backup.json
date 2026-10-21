@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS2026_Projects\\ISC_PracticeSession1_Helpers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6AC231-E8AC-636F-4FDD-FA5B6DDFC5A0}|ISC_PracticeSession1_Helpers\\ISC_PracticeSession1_Helpers.csproj|d:\\vs2026_projects\\isc_practicesession1_helpers\\isc_practicesession1_helpers\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6AC231-E8AC-636F-4FDD-FA5B6DDFC5A0}|ISC_PracticeSession1_Helpers\\ISC_PracticeSession1_Helpers.csproj|solutionrelative:isc_practicesession1_helpers\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6AC231-E8AC-636F-4FDD-FA5B6DDFC5A0}|ISC_PracticeSession1_Helpers\\ISC_PracticeSession1_Helpers.csproj|d:\\vs2026_projects\\isc_practicesession1_helpers\\isc_practicesession1_helpers\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E6AC231-E8AC-636F-4FDD-FA5B6DDFC5A0}|ISC_PracticeSession1_Helpers\\ISC_PracticeSession1_Helpers.csproj|solutionrelative:isc_practicesession1_helpers\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6AC231-E8AC-636F-4FDD-FA5B6DDFC5A0}|ISC_PracticeSession1_Helpers\\ISC_PracticeSession1_Helpers.csproj|d:\\vs2026_projects\\isc_practicesession1_helpers\\isc_practicesession1_helpers\\views\\employee\\showdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E6AC231-E8AC-636F-4FDD-FA5B6DDFC5A0}|ISC_PracticeSession1_Helpers\\ISC_PracticeSession1_Helpers.csproj|solutionrelative:isc_practicesession1_helpers\\views\\employee\\showdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6AC231-E8AC-636F-4FDD-FA5B6DDFC5A0}|ISC_PracticeSession1_Helpers\\ISC_PracticeSession1_Helpers.csproj|d:\\vs2026_projects\\isc_practicesession1_helpers\\isc_practicesession1_helpers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E6AC231-E8AC-636F-4FDD-FA5B6DDFC5A0}|ISC_PracticeSession1_Helpers\\ISC_PracticeSession1_Helpers.csproj|solutionrelative:isc_practicesession1_helpers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6AC231-E8AC-636F-4FDD-FA5B6DDFC5A0}|ISC_PracticeSession1_Helpers\\ISC_PracticeSession1_Helpers.csproj|d:\\vs2026_projects\\isc_practicesession1_helpers\\isc_practicesession1_helpers\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6AC231-E8AC-636F-4FDD-FA5B6DDFC5A0}|ISC_PracticeSession1_Helpers\\ISC_PracticeSession1_Helpers.csproj|solutionrelative:isc_practicesession1_helpers\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowData.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_PracticeSession1_Helpers\\ISC_PracticeSession1_Helpers\\Views\\Employee\\ShowData.cshtml",
+              "RelativeDocumentMoniker": "ISC_PracticeSession1_Helpers\\Views\\Employee\\ShowData.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_PracticeSession1_Helpers\\ISC_PracticeSession1_Helpers\\Views\\Employee\\ShowData.cshtml",
+              "RelativeToolTip": "ISC_PracticeSession1_Helpers\\Views\\Employee\\ShowData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-22T19:00:14.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_PracticeSession1_Helpers\\ISC_PracticeSession1_Helpers\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "ISC_PracticeSession1_Helpers\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_PracticeSession1_Helpers\\ISC_PracticeSession1_Helpers\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "ISC_PracticeSession1_Helpers\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-22T18:38:21.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_PracticeSession1_Helpers\\ISC_PracticeSession1_Helpers\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ISC_PracticeSession1_Helpers\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_PracticeSession1_Helpers\\ISC_PracticeSession1_Helpers\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ISC_PracticeSession1_Helpers\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T18:38:02.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_PracticeSession1_Helpers\\ISC_PracticeSession1_Helpers\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ISC_PracticeSession1_Helpers\\Models\\Employee.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_PracticeSession1_Helpers\\ISC_PracticeSession1_Helpers\\Models\\Employee.cs",
+              "RelativeToolTip": "ISC_PracticeSession1_Helpers\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T18:35:28.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_PracticeSession1_Helpers\\ISC_PracticeSession1_Helpers\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ISC_PracticeSession1_Helpers\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_PracticeSession1_Helpers\\ISC_PracticeSession1_Helpers\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ISC_PracticeSession1_Helpers\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-18T16:19:55.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

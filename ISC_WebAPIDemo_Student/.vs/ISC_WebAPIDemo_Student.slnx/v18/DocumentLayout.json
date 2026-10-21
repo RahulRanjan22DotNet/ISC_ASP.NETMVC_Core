@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS2026_Projects\\ISC_WebAPIDemo_Student\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D139F576-4FD0-4DCA-9D89-726C19B37E08}|ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student.csproj|d:\\vs2026_projects\\isc_webapidemo_student\\isc_webapidemo_student\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D139F576-4FD0-4DCA-9D89-726C19B37E08}|ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student.csproj|solutionrelative:isc_webapidemo_student\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D139F576-4FD0-4DCA-9D89-726C19B37E08}|ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student.csproj|d:\\vs2026_projects\\isc_webapidemo_student\\isc_webapidemo_student\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D139F576-4FD0-4DCA-9D89-726C19B37E08}|ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student.csproj|solutionrelative:isc_webapidemo_student\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D139F576-4FD0-4DCA-9D89-726C19B37E08}|ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student.csproj|d:\\vs2026_projects\\isc_webapidemo_student\\isc_webapidemo_student\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D139F576-4FD0-4DCA-9D89-726C19B37E08}|ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student.csproj|solutionrelative:isc_webapidemo_student\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D139F576-4FD0-4DCA-9D89-726C19B37E08}|ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student.csproj|d:\\vs2026_projects\\isc_webapidemo_student\\isc_webapidemo_student\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D139F576-4FD0-4DCA-9D89-726C19B37E08}|ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student.csproj|solutionrelative:isc_webapidemo_student\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D139F576-4FD0-4DCA-9D89-726C19B37E08}|ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student.csproj|d:\\vs2026_projects\\isc_webapidemo_student\\isc_webapidemo_student\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D139F576-4FD0-4DCA-9D89-726C19B37E08}|ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student.csproj|solutionrelative:isc_webapidemo_student\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D139F576-4FD0-4DCA-9D89-726C19B37E08}|ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student.csproj|d:\\vs2026_projects\\isc_webapidemo_student\\isc_webapidemo_student\\models\\productdto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D139F576-4FD0-4DCA-9D89-726C19B37E08}|ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student.csproj|solutionrelative:isc_webapidemo_student\\models\\productdto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D139F576-4FD0-4DCA-9D89-726C19B37E08}|ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student.csproj|d:\\vs2026_projects\\isc_webapidemo_student\\isc_webapidemo_student\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D139F576-4FD0-4DCA-9D89-726C19B37E08}|ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student.csproj|solutionrelative:isc_webapidemo_student\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D139F576-4FD0-4DCA-9D89-726C19B37E08}|ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student.csproj|d:\\vs2026_projects\\isc_webapidemo_student\\isc_webapidemo_student\\models\\productdto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D139F576-4FD0-4DCA-9D89-726C19B37E08}|ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student.csproj|solutionrelative:isc_webapidemo_student\\models\\productdto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D139F576-4FD0-4DCA-9D89-726C19B37E08}|ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student.csproj|d:\\vs2026_projects\\isc_webapidemo_student\\isc_webapidemo_student\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D139F576-4FD0-4DCA-9D89-726C19B37E08}|ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student.csproj|solutionrelative:isc_webapidemo_student\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDTO2.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student\\Models\\ProductDTO2.cs",
+              "RelativeDocumentMoniker": "ISC_WebAPIDemo_Student\\Models\\ProductDTO2.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student\\Models\\ProductDTO2.cs",
+              "RelativeToolTip": "ISC_WebAPIDemo_Student\\Models\\ProductDTO2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T14:20:16.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDTO1.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student\\Models\\ProductDTO1.cs",
+              "RelativeDocumentMoniker": "ISC_WebAPIDemo_Student\\Models\\ProductDTO1.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student\\Models\\ProductDTO1.cs",
+              "RelativeToolTip": "ISC_WebAPIDemo_Student\\Models\\ProductDTO1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:59:21.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ISC_WebAPIDemo_Student\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ISC_WebAPIDemo_Student\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwC8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:23:35.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ISC_WebAPIDemo_Student\\Models\\Product.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student\\Models\\Product.cs",
+              "RelativeToolTip": "ISC_WebAPIDemo_Student\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:20:42.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ISC_WebAPIDemo_Student\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ISC_WebAPIDemo_Student\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-15T10:05:03.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student\\appsettings.json",
+              "RelativeDocumentMoniker": "ISC_WebAPIDemo_Student\\appsettings.json",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student\\appsettings.json",
+              "RelativeToolTip": "ISC_WebAPIDemo_Student\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-15T10:04:47.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ISC_WebAPIDemo_Student\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ISC_WebAPIDemo_Student\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T13:01:00.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student\\Program.cs",
+              "RelativeDocumentMoniker": "ISC_WebAPIDemo_Student\\Program.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student\\Program.cs",
+              "RelativeToolTip": "ISC_WebAPIDemo_Student\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:13:21.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Students.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "ISC_WebAPIDemo_Student\\Models\\Students.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Student\\Models\\Students.cs",
+              "RelativeToolTip": "ISC_WebAPIDemo_Student\\Models\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:04:42.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@ISC_WebAPIDemo_HostAddress = http://localhost:5093
+
+GET {{ISC_WebAPIDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

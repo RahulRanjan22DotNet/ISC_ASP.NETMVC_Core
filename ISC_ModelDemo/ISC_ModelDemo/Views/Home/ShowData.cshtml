@@ -1,0 +1,38 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1 class="p-2 bg-primary text-white">Student Information using ViewData</h1>
+<div class="container p-3 bg-body-secondary">
+    <div class="=p-2">
+        Roll: @ViewData["Roll"]
+    </div>
+    <div class="=p-2">
+        Name: @ViewData["Name"]
+    </div>
+    <div class="=p-2">
+        Course: @ViewData["Course"]
+    </div>
+    <div class="=p-2">
+        Fee: @ViewData["Fee"]
+    </div>
+</div>
+
+<h1 class="p-2 bg-primary text-white">Student Information using ViewBag</h1>
+<div class="container p-3 bg-body-secondary">
+    <div class="=p-2">
+        Roll: @ViewBag.Roll
+    </div>
+    <div class="=p-2">
+        Name: @ViewBag.Name
+    </div>
+    <div class="=p-2">
+        Course: @ViewBag.Course
+    </div>
+    <div class="=p-2">
+        Fee: @ViewBag.Fee
+    </div>
+</div>
+

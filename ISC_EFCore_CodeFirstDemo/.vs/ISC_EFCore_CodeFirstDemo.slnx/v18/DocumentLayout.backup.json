@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|d:\\vs2026_projects\\isc_efcore_codefirstdemo\\isc_efcore_codefirstdemo\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|solutionrelative:isc_efcore_codefirstdemo\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|d:\\vs2026_projects\\isc_efcore_codefirstdemo\\isc_efcore_codefirstdemo\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|solutionrelative:isc_efcore_codefirstdemo\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|d:\\vs2026_projects\\isc_efcore_codefirstdemo\\isc_efcore_codefirstdemo\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|solutionrelative:isc_efcore_codefirstdemo\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|d:\\vs2026_projects\\isc_efcore_codefirstdemo\\isc_efcore_codefirstdemo\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|solutionrelative:isc_efcore_codefirstdemo\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|d:\\vs2026_projects\\isc_efcore_codefirstdemo\\isc_efcore_codefirstdemo\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|solutionrelative:isc_efcore_codefirstdemo\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|d:\\vs2026_projects\\isc_efcore_codefirstdemo\\isc_efcore_codefirstdemo\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|solutionrelative:isc_efcore_codefirstdemo\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Views\\Course\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ISC_EFCore_CodeFirstDemo\\Views\\Course\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|d:\\vs2026_projects\\isc_efcore_codefirstdemo\\isc_efcore_codefirstdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|solutionrelative:isc_efcore_codefirstdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|d:\\vs2026_projects\\isc_efcore_codefirstdemo\\isc_efcore_codefirstdemo\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|solutionrelative:isc_efcore_codefirstdemo\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Views\\Course\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ISC_EFCore_CodeFirstDemo\\Views\\Course\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Views\\Course\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ISC_EFCore_CodeFirstDemo\\Views\\Course\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Views\\Course\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ISC_EFCore_CodeFirstDemo\\Views\\Course\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|d:\\vs2026_projects\\isc_efcore_codefirstdemo\\isc_efcore_codefirstdemo\\migrations\\20260729202514_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|solutionrelative:isc_efcore_codefirstdemo\\migrations\\20260729202514_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|d:\\vs2026_projects\\isc_efcore_codefirstdemo\\isc_efcore_codefirstdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|solutionrelative:isc_efcore_codefirstdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|d:\\vs2026_projects\\isc_efcore_codefirstdemo\\isc_efcore_codefirstdemo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|solutionrelative:isc_efcore_codefirstdemo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|d:\\vs2026_projects\\isc_efcore_codefirstdemo\\isc_efcore_codefirstdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|solutionrelative:isc_efcore_codefirstdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|d:\\vs2026_projects\\isc_efcore_codefirstdemo\\isc_efcore_codefirstdemo\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|solutionrelative:isc_efcore_codefirstdemo\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|d:\\vs2026_projects\\isc_efcore_codefirstdemo\\isc_efcore_codefirstdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BB0F54-851D-7563-18F8-1DC534A18ADB}|ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo.csproj|solutionrelative:isc_efcore_codefirstdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ISC_EFCore_CodeFirstDemo\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "ISC_EFCore_CodeFirstDemo\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-31T21:14:46.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "ISC_EFCore_CodeFirstDemo\\Views\\Student\\Details.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "ISC_EFCore_CodeFirstDemo\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-31T21:14:41.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ISC_EFCore_CodeFirstDemo\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Views\\Student\\Delete.cshtml*",
+              "RelativeToolTip": "ISC_EFCore_CodeFirstDemo\\Views\\Student\\Delete.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-31T21:14:35.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "ISC_EFCore_CodeFirstDemo\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "ISC_EFCore_CodeFirstDemo\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-31T21:14:32.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "ISC_EFCore_CodeFirstDemo\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "ISC_EFCore_CodeFirstDemo\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-31T21:07:37.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ISC_EFCore_CodeFirstDemo\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ISC_EFCore_CodeFirstDemo\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T21:03:53.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "ISC_EFCore_CodeFirstDemo\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "ISC_EFCore_CodeFirstDemo\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAHcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T18:15:07.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Views\\Course\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ISC_EFCore_CodeFirstDemo\\Views\\Course\\Delete.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Views\\Course\\Delete.cshtml",
+              "RelativeToolTip": "ISC_EFCore_CodeFirstDemo\\Views\\Course\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-31T20:54:10.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Views\\Course\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ISC_EFCore_CodeFirstDemo\\Views\\Course\\Edit.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Views\\Course\\Edit.cshtml",
+              "RelativeToolTip": "ISC_EFCore_CodeFirstDemo\\Views\\Course\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-31T20:45:27.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Views\\Course\\Details.cshtml",
+              "RelativeDocumentMoniker": "ISC_EFCore_CodeFirstDemo\\Views\\Course\\Details.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Views\\Course\\Details.cshtml",
+              "RelativeToolTip": "ISC_EFCore_CodeFirstDemo\\Views\\Course\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-31T20:36:25.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "ISC_EFCore_CodeFirstDemo\\Views\\Course\\Create.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "ISC_EFCore_CodeFirstDemo\\Views\\Course\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-31T20:09:04.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "ISC_EFCore_CodeFirstDemo\\Views\\Course\\Index.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "ISC_EFCore_CodeFirstDemo\\Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-31T20:03:14.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260729202514_First.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Migrations\\20260729202514_First.cs",
+              "RelativeDocumentMoniker": "ISC_EFCore_CodeFirstDemo\\Migrations\\20260729202514_First.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Migrations\\20260729202514_First.cs",
+              "RelativeToolTip": "ISC_EFCore_CodeFirstDemo\\Migrations\\20260729202514_First.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T20:25:14.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ISC_EFCore_CodeFirstDemo\\Program.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Program.cs",
+              "RelativeToolTip": "ISC_EFCore_CodeFirstDemo\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T20:16:57.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "ISC_EFCore_CodeFirstDemo\\appsettings.json",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\appsettings.json",
+              "RelativeToolTip": "ISC_EFCore_CodeFirstDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-29T20:07:58.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "ISC_EFCore_CodeFirstDemo\\Models\\Course.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Models\\Course.cs",
+              "RelativeToolTip": "ISC_EFCore_CodeFirstDemo\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T20:03:34.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ISC_EFCore_CodeFirstDemo\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ISC_EFCore_CodeFirstDemo\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T19:58:46.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ISC_EFCore_CodeFirstDemo\\Models\\Student.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_EFCore_CodeFirstDemo\\ISC_EFCore_CodeFirstDemo\\Models\\Student.cs",
+              "RelativeToolTip": "ISC_EFCore_CodeFirstDemo\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T19:56:41.466Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

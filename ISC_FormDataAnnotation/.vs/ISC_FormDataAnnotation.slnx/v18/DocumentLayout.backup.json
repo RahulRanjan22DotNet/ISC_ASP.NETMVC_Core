@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS2026_Projects\\ISC_FormDataAnnotation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFD22ED-41C6-4AB3-BB1A-9F0461EFF734}|ISC_FormDataAnnotation\\ISC_FormDataAnnotation.csproj|d:\\vs2026_projects\\isc_formdataannotation\\isc_formdataannotation\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFD22ED-41C6-4AB3-BB1A-9F0461EFF734}|ISC_FormDataAnnotation\\ISC_FormDataAnnotation.csproj|solutionrelative:isc_formdataannotation\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFD22ED-41C6-4AB3-BB1A-9F0461EFF734}|ISC_FormDataAnnotation\\ISC_FormDataAnnotation.csproj|d:\\vs2026_projects\\isc_formdataannotation\\isc_formdataannotation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFD22ED-41C6-4AB3-BB1A-9F0461EFF734}|ISC_FormDataAnnotation\\ISC_FormDataAnnotation.csproj|solutionrelative:isc_formdataannotation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFD22ED-41C6-4AB3-BB1A-9F0461EFF734}|ISC_FormDataAnnotation\\ISC_FormDataAnnotation.csproj|d:\\vs2026_projects\\isc_formdataannotation\\isc_formdataannotation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFD22ED-41C6-4AB3-BB1A-9F0461EFF734}|ISC_FormDataAnnotation\\ISC_FormDataAnnotation.csproj|solutionrelative:isc_formdataannotation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFD22ED-41C6-4AB3-BB1A-9F0461EFF734}|ISC_FormDataAnnotation\\ISC_FormDataAnnotation.csproj|d:\\vs2026_projects\\isc_formdataannotation\\isc_formdataannotation\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CFD22ED-41C6-4AB3-BB1A-9F0461EFF734}|ISC_FormDataAnnotation\\ISC_FormDataAnnotation.csproj|solutionrelative:isc_formdataannotation\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFD22ED-41C6-4AB3-BB1A-9F0461EFF734}|ISC_FormDataAnnotation\\ISC_FormDataAnnotation.csproj|d:\\vs2026_projects\\isc_formdataannotation\\isc_formdataannotation\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CFD22ED-41C6-4AB3-BB1A-9F0461EFF734}|ISC_FormDataAnnotation\\ISC_FormDataAnnotation.csproj|solutionrelative:isc_formdataannotation\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFD22ED-41C6-4AB3-BB1A-9F0461EFF734}|ISC_FormDataAnnotation\\ISC_FormDataAnnotation.csproj|d:\\vs2026_projects\\isc_formdataannotation\\isc_formdataannotation\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFD22ED-41C6-4AB3-BB1A-9F0461EFF734}|ISC_FormDataAnnotation\\ISC_FormDataAnnotation.csproj|solutionrelative:isc_formdataannotation\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_FormDataAnnotation\\ISC_FormDataAnnotation\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ISC_FormDataAnnotation\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_FormDataAnnotation\\ISC_FormDataAnnotation\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ISC_FormDataAnnotation\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-25T10:58:34.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_FormDataAnnotation\\ISC_FormDataAnnotation\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ISC_FormDataAnnotation\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_FormDataAnnotation\\ISC_FormDataAnnotation\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ISC_FormDataAnnotation\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T10:48:47.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_FormDataAnnotation\\ISC_FormDataAnnotation\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ISC_FormDataAnnotation\\Models\\Product.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_FormDataAnnotation\\ISC_FormDataAnnotation\\Models\\Product.cs",
+              "RelativeToolTip": "ISC_FormDataAnnotation\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T10:42:22.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_FormDataAnnotation\\ISC_FormDataAnnotation\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ISC_FormDataAnnotation\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_FormDataAnnotation\\ISC_FormDataAnnotation\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ISC_FormDataAnnotation\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-23T19:09:23.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_FormDataAnnotation\\ISC_FormDataAnnotation\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ISC_FormDataAnnotation\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_FormDataAnnotation\\ISC_FormDataAnnotation\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ISC_FormDataAnnotation\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T19:07:49.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\VS2026_Projects\\ISC_FormDataAnnotation\\ISC_FormDataAnnotation\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ISC_FormDataAnnotation\\Models\\User.cs",
+              "ToolTip": "D:\\VS2026_Projects\\ISC_FormDataAnnotation\\ISC_FormDataAnnotation\\Models\\User.cs",
+              "RelativeToolTip": "ISC_FormDataAnnotation\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T19:06:08.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

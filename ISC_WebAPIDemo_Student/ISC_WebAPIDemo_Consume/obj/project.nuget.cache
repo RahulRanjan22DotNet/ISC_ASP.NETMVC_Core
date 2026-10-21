@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q2t9lYMjuF8=",
+  "success": true,
+  "projectFilePath": "D:\\VS2026_Projects\\ISC_WebAPIDemo_Student\\ISC_WebAPIDemo_Consume\\ISC_WebAPIDemo_Consume.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rahul Ranjan\\.nuget\\packages\\newtonsoft.json\\14.0.1-beta2\\newtonsoft.json.14.0.1-beta2.nupkg.sha512"
+  ],
+  "logs": []
+}

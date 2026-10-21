@@ -1,0 +1,57 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.register-page {
+    min-height: calc(100vh - 180px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #ffffff;
+}
+.register-card { width: min(100%, 980px); border: 1px solid #e4e8f0; border-radius: 1.25rem; box-shadow: 0 1rem 3rem rgba(27, 42, 74, .1); }
+.register-intro { background: linear-gradient(145deg, #243b80, #536dce); }
+.brand-mark { width: 3rem; height: 3rem; display: grid; place-items: center; border-radius: .75rem; background: rgba(255, 255, 255, .18); font-weight: 800; letter-spacing: .05em; }
+.eyebrow { font-size: .72rem; font-weight: 700; letter-spacing: .14em; }
+.intro-copy { color: rgba(255, 255, 255, .78); line-height: 1.7; }
+.intro-feature { margin-top: 1rem; color: rgba(255, 255, 255, .9); }
+.feature-icon { width: 1.5rem; height: 1.5rem; display: grid; place-items: center; border-radius: 50%; background: rgba(255, 255, 255, .2); font-size: .8rem; }
+.form-label { font-size: .85rem; font-weight: 600; color: #334155; }
+.form-control, .form-select { border-color: #dbe1eb; border-radius: .65rem; }
+.input-group-text { border-color: #dbe1eb; color: #64748b; }
+.input-group .form-control { border-left: 0; }
+.input-group .form-control:focus { border-left: 0; }
+.input-group:focus-within .input-group-text { border-color: #536dce; color: #536dce; }
+.password-toggle { border-color: #dbe1eb; color: #64748b; }
+.password-toggle:hover { border-color: #536dce; color: #536dce; background: #fff; }
+.form-control:focus, .form-select:focus { border-color: #536dce; box-shadow: 0 0 0 .2rem rgba(83, 109, 206, .15); }
+.btn-primary { border: 0; border-radius: .65rem; background: #536dce; }
+.btn-primary:hover { background: #4058b1; }
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}
