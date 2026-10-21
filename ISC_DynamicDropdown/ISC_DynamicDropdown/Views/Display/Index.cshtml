@@ -1,0 +1,218 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+@* Views/Home/Index.cshtml *@ @{
+ViewData["Title"] = "Category Selection";
+}
+
+<style>
+    .category-page {
+        min-height: 75vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #f4f7fb;
+        padding: 30px 15px;
+    }
+
+    .category-card {
+        width: 100%;
+        max-width: 540px;
+        background: #fff;
+        border-radius: 16px;
+        padding: 32px;
+        box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+    }
+
+    .category-icon {
+        width: 54px;
+        height: 54px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 14px;
+        background: #e8efff;
+        color: #3159c9;
+        font-size: 26px;
+        margin-bottom: 18px;
+    }
+
+    .category-card h2 {
+        font-size: 25px;
+        font-weight: 700;
+        color: #202b3c;
+        margin-bottom: 8px;
+    }
+
+    .category-description {
+        color: #718096;
+        margin-bottom: 28px;
+    }
+
+    .form-label {
+        font-weight: 600;
+        color: #374151;
+        margin-bottom: 8px;
+    }
+
+    .form-select {
+        min-height: 48px;
+        border-radius: 9px;
+        border: 1px solid #d8deea;
+    }
+
+        .form-select:focus {
+            border-color: #5276e8;
+            box-shadow: 0 0 0 3px rgba(82, 118, 232, .13);
+        }
+
+    .submit-btn {
+        width: 100%;
+        min-height: 48px;
+        margin-top: 12px;
+        border-radius: 9px;
+        background: #3159c9;
+        border: none;
+        font-weight: 600;
+    }
+
+        .submit-btn:hover {
+            background: #2446a8;
+        }
+</style>
+
+<div class="category-page">
+    <div class="category-card">
+        <div class="category-icon">
+            &#128194;
+        </div>
+
+        <h2>Category Selection</h2>
+        <p class="category-description">
+            Select a category to view its available subcategories.
+        </p>
+
+        <form asp-controller="Home"
+              asp-action="SaveSelection"
+              method="post">
+
+            @Html.AntiForgeryToken()
+
+            <div class="mb-4">
+                <label for="CategoryId" class="form-label">
+                    Category
+                </label>
+
+                <select id="CategoryId"
+                        name="CategoryId"
+                        class="form-select"
+                        asp-items="ViewBag.Categories"
+                        required>
+                    <option value="">-- Select Category --</option>
+                </select>
+            </div>
+
+            <div class="mb-4">
+                <label for="SubCategoryId" class="form-label">
+                    Subcategory
+                </label>
+
+                <select id="SubCategoryId"
+                        name="SubCategoryId"
+                        class="form-select"
+                        disabled
+                        required>
+                    <option value="">-- Select Subcategory --</option>
+                </select>
+
+                <small id="loadingMessage"
+                       class="text-muted mt-2 d-block"
+                       style="display:none !important;">
+                    Loading subcategories...
+                </small>
+
+                <div id="errorMessage"
+                     class="text-danger small mt-2"
+                     role="alert"></div>
+            </div>
+
+            <button type="submit" class="btn btn-primary submit-btn">
+                Continue &rarr;
+            </button>
+        </form>
+    </div>
+
+
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () 
+            { 
+                const categoryDropdown = $("#CategoryId"); 
+                const subCategoryDropdown = $("#SubCategoryId"); 
+                const loadingMessage = $("#loadingMessage"); 
+                const errorMessage = $("#errorMessage");
+
+               categoryDropdown.on("change", function () {
+                   const categoryId = $(this).val();
+
+                   subCategoryDropdown.empty()
+                       .append('<option value="">-- Select Subcategory --</option>')
+                       .prop("disabled", true);
+
+                   errorMessage.text("");
+
+                   if (!categoryId) {
+                       return;
+                   }
+
+                   loadingMessage.css("display", "block");
+
+                   $.ajax({
+                       url: '@Url.Action("GetSubCategories", "Display")',
+                       type: "GET",
+                       data: { categoryId: categoryId },
+
+                       success: function (data) {
+                           $.each(data, function (index, item) {
+                               subCategoryDropdown.append(
+                                   $("<option>", {
+                                       value: item.subCategoryId,
+                                       text: item.subCategoryName
+                                   })
+                               );
+                           });
+                           loadingMessage.css("display", "none");
+                           subCategoryDropdown.prop(
+                               "disabled",
+                               data.length === 0
+                           );
+
+                           if (data.length === 0) {
+                               errorMessage.text(
+                                   "No subcategories are available for this category."
+                               );
+                           }
+                       },
+
+                       error: function () {
+                           errorMessage.text(
+                               "Unable to load subcategories. Please try again."
+                           );
+                       },
+
+                       complete: function () {
+                           loadingMessage.css("display", "none");
+                       }
+                   });
+               });
+           });
+    </script>
+
+
+}
